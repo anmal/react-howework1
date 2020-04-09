@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-howework1/static/css/main.1881e2d1.chunk.css",
+    "main.js": "/react-howework1/static/js/main.94eff6b5.chunk.js",
+    "main.js.map": "/react-howework1/static/js/main.94eff6b5.chunk.js.map",
+    "runtime-main.js": "/react-howework1/static/js/runtime-main.0e94e0e4.js",
+    "runtime-main.js.map": "/react-howework1/static/js/runtime-main.0e94e0e4.js.map",
+    "static/css/2.d788185a.chunk.css": "/react-howework1/static/css/2.d788185a.chunk.css",
+    "static/js/2.e269e35b.chunk.js": "/react-howework1/static/js/2.e269e35b.chunk.js",
+    "static/js/2.e269e35b.chunk.js.map": "/react-howework1/static/js/2.e269e35b.chunk.js.map",
+    "index.html": "/react-howework1/index.html",
+    "precache-manifest.3fb0a0bf4fef0401bfbc742b5fc0aee0.js": "/react-howework1/precache-manifest.3fb0a0bf4fef0401bfbc742b5fc0aee0.js",
+    "service-worker.js": "/react-howework1/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/react-howework1/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.1881e2d1.chunk.css.map": "/react-howework1/static/css/main.1881e2d1.chunk.css.map",
+    "static/js/2.e269e35b.chunk.js.LICENSE.txt": "/react-howework1/static/js/2.e269e35b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e94e0e4.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.e269e35b.chunk.js",
+    "static/css/main.1881e2d1.chunk.css",
+    "static/js/main.94eff6b5.chunk.js"
+  ]
+}
